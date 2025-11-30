@@ -1,5 +1,7 @@
 body {
   background-color: #235789;
+  overflow-y: hidden;
+  overflow-x: hidden;
 }
 
 div {
