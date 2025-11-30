@@ -31,10 +31,10 @@ button {
   margin: 0 auto;
 }
 
-@media screen and (min-width: 320px) {
+@media screen and (max-width: 320px) {
   input {
     padding: 10px;
-    width: 220px;
+    width: 150px;
     border: none;
     outline: none;
   }
