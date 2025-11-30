@@ -13,7 +13,7 @@ div {
 
 input {
   padding: 10px;
-  width: 250px;
+  width: 150px;
   border: none;
   outline: none;
   position: relative;
@@ -34,7 +34,7 @@ button {
 @media screen and (min-width: 320px) {
   input {
     padding: 10px;
-    width: 259px;
+    width: 250px;
     border: none;
     outline: none;
   }
