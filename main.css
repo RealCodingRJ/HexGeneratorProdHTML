@@ -11,7 +11,7 @@ div {
 
 input {
   padding: 12px;
-  width: 290px;
+  width: 220px;
   border: none;
   outline: none;
 }
@@ -24,10 +24,10 @@ button {
   outline: none;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (min-width: 320px) {
   input {
-    padding: 12px;
-    width: 250px;
+    padding: 10px;
+    width: 200px;
     border: none;
     outline: none;
   }
