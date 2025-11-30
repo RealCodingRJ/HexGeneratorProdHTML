@@ -34,7 +34,7 @@ button {
 @media screen and (min-width: 320px) {
   input {
     padding: 10px;
-    width: 250px;
+    width: 220px;
     border: none;
     outline: none;
   }
