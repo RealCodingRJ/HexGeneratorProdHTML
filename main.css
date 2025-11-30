@@ -13,7 +13,7 @@ div {
 
 input {
   padding: 10px;
-  width: 150px;
+  width: 250px;
   border: none;
   outline: none;
   position: relative;
@@ -23,18 +23,18 @@ input {
 button {
   padding: 7px;
   display: grid;
-  width: 220px;
+  width: 250px;
   position: relative;
-  top: 130px;
+  top: 160px;
   border: none;
   outline: none;
   margin: 0 auto;
 }
 
-@media screen and (max-width: 320px) {
+/* @media screen and (max-width: 320px) {
   input {
     padding: 10px;
-    width: 150px;
+    width: 220px;
     border: none;
     outline: none;
   }
@@ -46,4 +46,4 @@ button {
     border: none;
     outline: none;
   }
-}
+} */
