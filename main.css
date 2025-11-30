@@ -1,0 +1,42 @@
+body {
+  background-color: #235789;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 200px;
+}
+
+input {
+  padding: 12px;
+  width: 290px;
+  border: none;
+  outline: none;
+}
+
+button {
+  padding: 7px;
+  width: 220px;
+  margin-top: 20px;
+  border: none;
+  outline: none;
+}
+
+@media screen and (max-width: 500px) {
+  input {
+    padding: 12px;
+    width: 250px;
+    border: none;
+    outline: none;
+  }
+
+  button {
+    padding: 7px;
+    width: 220px;
+    margin-top: 20px;
+    border: none;
+    outline: none;
+  }
+}
