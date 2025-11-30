@@ -12,24 +12,29 @@ div {
 }
 
 input {
-  padding: 12px;
-  width: 220px;
+  padding: 10px;
+  width: 350px;
   border: none;
   outline: none;
+  position: relative;
+  top: 130px;
 }
 
 button {
   padding: 7px;
+  display: grid;
   width: 220px;
-  margin-top: 20px;
+  position: relative;
+  top: 130px;
   border: none;
   outline: none;
+  margin: 0 auto;
 }
 
 @media screen and (min-width: 320px) {
   input {
     padding: 10px;
-    width: 200px;
+    width: 350px;
     border: none;
     outline: none;
   }
